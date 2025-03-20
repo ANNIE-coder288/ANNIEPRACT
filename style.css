@@ -1,0 +1,20 @@
+button{
+    background-color: black;
+    color: #ffffff;
+    border-radius: 100;
+}
+.container{
+    background-color: grey;
+    width: 50px;
+    height: 25px;
+    padding: 2rem;
+    margin:4rem;
+}
+i{
+    border-radius: 100%;
+    content: icon;
+    text-align: center;
+    display: flex;
+    
+
+}

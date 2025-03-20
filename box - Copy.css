@@ -1,0 +1,8 @@
+.box{
+    background-color: red;
+    move:left;
+}
+@keyframes move{
+    background-color:blue;
+    
+}
